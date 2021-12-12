@@ -11,3 +11,8 @@ pom.xml.asc
 .hgignore
 .hg/
 .tool-versions
+.envrc
+.calva
+.cpcache
+.lsp
+.clj-kondo
