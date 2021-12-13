@@ -5,4 +5,5 @@
   metosin/malli          {:mvn/version "0.2.1"}
   aocd/aocd              {:mvn/version "0.1.1"}
   wing/wing              {:mvn/version "0.1.4"}
+  net.mikera/core.matrix {:mvn/version "0.62.0"}
   funcool/cuerdas        {:mvn/version "2020.03.26-3"}}}
